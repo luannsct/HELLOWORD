@@ -15,3 +15,35 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+
+# Hello World
+Olá Mundo 
+Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
+
+
+
+
+
+## Autores
+
+- [@Luan Costa](https://www.github.com/luannsct/)
+
+
+## Uso/Exemplos
+
+```javascript
+let nome = 'Seu nome Aqui';
+
+console.log("Olá ", nome, ", Saudações!");
+>>> Olá [seu nome], Saudações!
+```
+
+
+## Etiquetas
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
