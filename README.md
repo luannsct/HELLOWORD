@@ -27,10 +27,7 @@ console.log("Olá ", nome, ", Saudações!");
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+## Redes Sociais
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
 <a href="https://twitter.com/@luannsct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luannsct" height="30" width="40" /></a>
