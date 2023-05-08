@@ -1,13 +1,10 @@
-<h1 align="center">Olá👋, eu sou o Luan</h1>
-<h3 align="center">Desenvolvido no Brasil! Santarém - PA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luannsct&label=Profile%20views&color=0e75b6&style=flat" alt="luannsct" /> </p>
 
 # Hello World
 Olá Mundo 
 Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luannsct&label=Profile%20views&color=0e75b6&style=flat" alt="luannsct" /> </p>
 
 
 
