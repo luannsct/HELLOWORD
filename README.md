@@ -29,7 +29,7 @@ console.log("Olá ", nome, ", Saudações!");
 
 ## Redes Sociais
 
-[Instagram](https://instagram.com/luan.nsct)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/luan.nsct)
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
 <a href="https://twitter.com/@luannsct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luannsct" height="30" width="40" /></a>
