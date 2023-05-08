@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luannsct&label=Profile%20views&color=0e75b6&style=flat" alt="luannsct" /> </p>
 
-- 🔭 I’m currently working on **Hello World**
+- 🔭 meu trabalho atual é com esse  **Hello World**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
