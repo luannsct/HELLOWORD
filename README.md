@@ -29,7 +29,7 @@ console.log("Olá ", nome, ", Saudações!");
 
 ## Redes Sociais
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/luan.nsct)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luan.nsct)
 
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
