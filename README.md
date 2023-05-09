@@ -16,10 +16,12 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 ## Uso/Exemplos
 
 ```javascript
-let nome = 'Seu nome Aqui';
+const olaMundo = () => {
+    console.log("Olá Mundo!");
+}
 
-console.log("Olá ", nome, ", Saudações!");
->>> Olá [seu nome], Saudações!
+olaMundo();
+>Olá Mundo!
 ```
 
 
