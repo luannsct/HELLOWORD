@@ -10,10 +10,10 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 
 <a href="https://github.com/DavibernardesA/github-readme-stats" >
-  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=radical" />
+  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/DavibernardesA/convoychat">
-  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&langs_count=8&theme=radical" />
+  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&langs_count=8&theme=gruvbox" />
 </a>
 ---https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&langs_count=8)](https://github.com/DavibernardesA/github-readme-stats)
