@@ -13,7 +13,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/DavibernardesA/convoychat">
-  <img align="center" style="height: 70px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut" />
+  <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut" />
 </a>
 
 ## Autores
