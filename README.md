@@ -14,6 +14,12 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut)](https://github.com/DavibernardesA/github-readme-stats)
 
+<a href="https://github.com/DavibernardesA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavibernardesA&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/DavibernardesA/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavibernardesA&repo=convoychat" />
+</a>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=dark)](https://github.com/DavibernardesA/github-readme-stats)
 
