@@ -18,7 +18,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut" />
 </a>
 <a href="https://github.com/DavibernardesA/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavibernardesA&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=dark" />
 </a>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=dark)](https://github.com/DavibernardesA/github-readme-stats)
