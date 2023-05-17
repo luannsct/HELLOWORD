@@ -10,7 +10,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout)](https://github.com/DavibernardesA/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA)
 
 
 ## Autores
