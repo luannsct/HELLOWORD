@@ -6,7 +6,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luannsct&label=Profile%20views&color=0e75b6&style=flat" alt="luannsct" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavibernardesA)](https://github.com/DavibernardesA/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannsct)](https://github.com/luannsct/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA)
 
