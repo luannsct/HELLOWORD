@@ -16,6 +16,8 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
   <img align="center" style="height: 190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut&theme=dark" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&langs_count=8)](https://github.com/DavibernardesA/github-readme-stats)
+
 ## Autores
 
 - [@Luan Costa](https://www.github.com/luannsct/)
