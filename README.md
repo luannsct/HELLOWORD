@@ -14,7 +14,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DavibernardesA/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DavibernardesA&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DavibernardesA/github-readme-stats#gh-light-mode-only)
+
 
 
 ## Autores
