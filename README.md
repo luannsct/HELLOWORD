@@ -8,7 +8,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 
 Arquivos do projeto ficarão dentro desta pasta
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=compact)](https://github.com/DavibernardesA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA](https://github.com/DavibernardesA/github-readme-stats)
 
 
 ## Autores
