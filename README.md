@@ -15,7 +15,7 @@ Essa é minha resposta para o primeiro exercício da aula da Cubos Academy! :-D
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut)](https://github.com/DavibernardesA/github-readme-stats)
 
 <a href="https://github.com/DavibernardesA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavibernardesA&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavibernardesA&layout=donut" />
 </a>
 <a href="https://github.com/DavibernardesA/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavibernardesA&repo=convoychat" />
